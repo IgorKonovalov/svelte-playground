@@ -1,2 +1,1 @@
-# svelte-playground
-here I have some fun with svelte!
+Here is a playground I use in order to have a first look at svelte and rollup
